@@ -1,7 +1,7 @@
 # Banco de Dados OFICINA MECÂNICA
  Bootcamp Database Experience - **_Digital Innovation One_**
  ___
- Objetivo é cria o esquema conceitual para desenvovimento de prestação de serviços em uma Oficina Mecânica com base na narrativa fornecida.
+ Objetivo é cria o esquema conceitual para desenvolvimento de prestação de serviços em uma Oficina Mecânica com base na narrativa fornecida.
  ___
 Narrativa:
 * Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica;
